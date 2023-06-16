@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1> Welcome to my page  </h1>
 
-<!--
-**alamcsg/alamcsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I am currently working on ...
+Gaining the relevant qualifications to get into Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Current course:</h2>
+
+- Google Cyber Security Professional Certificate
+
+
+<h2>Cyber Security Projects:</h2>
+
+- Working on it
+
+
+
+<h2> Certifications/Badges </h2>
+
+- Blue Team Junior Analyst (certification)
+
+- ISC2 Certified In Cyber Security (badges)
+  
+- NCFE Level 2 Principles of Cyber Security (certification)
+
