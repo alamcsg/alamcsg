@@ -6,7 +6,7 @@ Gaining the relevant qualifications to get into Cyber Security
 
 <h2> Current course:</h2>
 
-- Google Cyber Security Professional Certificate
+- Learning from Tryhackme
 
 
 <h2>Cyber Security Projects:</h2>
@@ -17,6 +17,8 @@ Gaining the relevant qualifications to get into Cyber Security
 
 <h2> Certifications/Badges </h2>
 
+- Google Cyber Security Professional Certificate
+  
 - Blue Team Junior Analyst (certification)
 
 - ISC2 Certified In Cyber Security (badges)
